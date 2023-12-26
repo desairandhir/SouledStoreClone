@@ -1,0 +1,2 @@
+# SouledStoreClone
+ HTML, CSS, JS
